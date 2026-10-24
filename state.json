@@ -1,0 +1,23 @@
+{
+  "started": "2026-10-24 23:13",
+  "markets": {
+    "BTCUSD": {
+      "equity": 50000,
+      "pos": 0,
+      "entry": null,
+      "entry_time": null,
+      "last_bar": 1792861200,
+      "trades": 0,
+      "wins": 0
+    },
+    "ETHUSD": {
+      "equity": 50000,
+      "pos": 0,
+      "entry": null,
+      "entry_time": null,
+      "last_bar": 1792861200,
+      "trades": 0,
+      "wins": 0
+    }
+  }
+}
