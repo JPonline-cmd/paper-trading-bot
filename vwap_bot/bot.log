@@ -3,3 +3,19 @@
 [2026-10-27 17:27:47] ETHUSD: paper trading starts after candle 2026-10-27 17:20 IST
 [2026-10-27 17:27:47] BTCUSD: price 79,900.5 | EMA9 79,883.7 | VWAP 79,840.8 | bias UP | no position | equity Rs 50,000 (+0.00%) | trades 0, wins 0 | today 0/3 trades, 0 losses || ETHUSD: price 2,316.3 | EMA9 2,314.7 | VWAP 2,313.2 | bias UP | no position | equity Rs 50,000 (+0.00%) | trades 0, wins 0 | today 0/3 trades, 0 losses
 [2026-10-27 17:27:47] TOTAL paper equity Rs 100,000 on Rs 100,000 (+0.00%)
+[2026-10-27 23:20:27] Paper bot 3 (9EMA+VWAP, 5m) started (paper since 2026-10-27 17:27 IST). Markets: BTCUSD, ETHUSD. NO real orders.
+[2026-10-27 23:20:27] BTCUSD: ENTER LONG @ 80,093.02  stop 79,853.05  target 80,572.94  size 3.00x (paper, Rs 50,000)
+[2026-10-27 23:20:27] BTCUSD: EXIT LONG @ 80,194.46  (Rs +40)  equity Rs 50,040  [close below EMA9]
+[2026-10-27 23:20:27] BTCUSD: ENTER LONG @ 80,320.06  stop 79,970.99  target 81,018.19  size 2.30x (paper, Rs 50,040)
+[2026-10-27 23:20:27] BTCUSD: EXIT LONG @ 80,214.45  (Rs -267)  equity Rs 49,773  [close below EMA9]
+[2026-10-27 23:20:27] BTCUSD: ENTER LONG @ 80,453.09  stop 80,167.90  target 81,023.47  size 2.82x (paper, Rs 49,773)
+[2026-10-27 23:20:27] BTCUSD: EXIT LONG @ 80,352.93  (Rs -315)  equity Rs 49,458  [close below EMA9]
+[2026-10-27 23:20:28] ETHUSD: ENTER LONG @ 2,322.36  stop 2,313.74  target 2,339.61  size 2.69x (paper, Rs 50,000)
+[2026-10-27 23:20:28] ETHUSD: EXIT PARTIAL LONG @ 2,339.14  (Rs +419)  equity Rs 50,419  [2R target (50%)]
+[2026-10-27 23:20:28] ETHUSD: EXIT LONG @ 2,329.88  (Rs +151)  equity Rs 50,570  [close below EMA9]
+[2026-10-27 23:20:28] ETHUSD: ENTER LONG @ 2,333.32  stop 2,326.39  target 2,347.18  size 3.00x (paper, Rs 50,570)
+[2026-10-27 23:20:28] ETHUSD: EXIT LONG @ 2,329.43  (Rs -404)  equity Rs 50,166  [close below EMA9]
+[2026-10-27 23:20:28] ETHUSD: ENTER LONG @ 2,338.67  stop 2,327.99  target 2,360.03  size 2.19x (paper, Rs 50,166)
+[2026-10-27 23:20:28] ETHUSD: EXIT LONG @ 2,343.68  (Rs +126)  equity Rs 50,291  [close below EMA9]
+[2026-10-27 23:20:28] BTCUSD: price 80,612.5 | EMA9 80,645.9 | VWAP 80,108.1 | bias UP | no position | equity Rs 49,458 (-1.08%) | trades 3, wins 1 | today 3/3 trades, 2 losses || ETHUSD: price 2,349.2 | EMA9 2,350.3 | VWAP 2,325.6 | bias UP | no position | equity Rs 50,291 (+0.58%) | trades 3, wins 2 | today 3/3 trades, 1 losses
+[2026-10-27 23:20:28] TOTAL paper equity Rs 99,749 on Rs 100,000 (-0.25%)
