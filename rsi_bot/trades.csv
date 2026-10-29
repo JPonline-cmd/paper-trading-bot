@@ -1,2 +1,4 @@
 market,side,entry_time_IST,entry_price,exit_time_IST,exit_price,return_pct,pnl_rs,equity_rs,exit_reason
 BTCUSD,SHORT,2026-10-25 12:00,80581.38,2026-10-26 15:30,80523.6,-0.03,-14.15,49985.85,"RSI went below 30, now back above 60"
+BTCUSD,SHORT,2026-10-29 08:30,79917.51,2026-10-29 20:30,81171.23,-1.67,-834.15,49151.71,"RSI went below 30, now back above 60"
+ETHUSD,SHORT,2026-10-29 08:00,2303.54,2026-10-29 20:30,2344.42,-1.87,-937.32,49062.68,"RSI went below 30, now back above 60"
