@@ -3,23 +3,23 @@
   "markets": {
     "BTCUSD": {
       "equity": 49985.851334167695,
-      "pos": 0,
-      "entry": null,
-      "entry_time": null,
-      "last_bar": 1793232000,
+      "pos": -1,
+      "entry": 79917.5133,
+      "entry_time": 1793242800,
+      "last_bar": 1793253600,
       "trades": 1,
       "wins": 0,
-      "armed": false
+      "armed": true
     },
     "ETHUSD": {
       "equity": 50000,
-      "pos": 0,
-      "entry": null,
-      "entry_time": null,
-      "last_bar": 1793232000,
+      "pos": -1,
+      "entry": 2303.5392,
+      "entry_time": 1793241000,
+      "last_bar": 1793253600,
       "trades": 0,
       "wins": 0,
-      "armed": false
+      "armed": true
     }
   }
 }
