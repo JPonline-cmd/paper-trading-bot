@@ -77,3 +77,8 @@
 [2026-10-31 14:19:25] Paper bot 2 (RSI exit) started (paper since 2026-10-26 08:30 IST). Markets: BTCUSD, ETHUSD. NO real orders.
 [2026-10-31 14:19:27] BTCUSD: price 77,306.0 | 4H trend DOWN | SHORT from 78,784.2 | RSI 52 (RSI exit armed) | equity Rs 50,015 (+0.03%) | trades 2, wins 0 || ETHUSD: price 2,240.0 | 4H trend DOWN | SHORT from 2,315.9 | RSI 50 (RSI exit armed) | equity Rs 50,612 (+1.22%) | trades 1, wins 0
 [2026-10-31 14:19:27] TOTAL paper equity Rs 100,627 on Rs 100,000 (+0.63%)
+[2026-10-31 20:46:42] Paper bot 2 (RSI exit) started (paper since 2026-10-26 08:30 IST). Markets: BTCUSD, ETHUSD. NO real orders.
+[2026-10-31 20:46:43] BTCUSD: EXIT SHORT @ 77,596.02  (+1.41%, Rs +692)  equity Rs 49,844  [RSI went below 30, now back above 60]
+[2026-10-31 20:46:44] ETHUSD: EXIT SHORT @ 2,251.90  (+2.66%, Rs +1,307)  equity Rs 50,369  [RSI went below 30, now back above 60]
+[2026-10-31 20:46:44] BTCUSD: price 77,420.5 | 4H trend DOWN | no position | RSI 50 | equity Rs 49,844 (-0.31%) | trades 3, wins 1 || ETHUSD: price 2,247.0 | 4H trend DOWN | no position | RSI 51 | equity Rs 50,369 (+0.74%) | trades 2, wins 1
+[2026-10-31 20:46:44] TOTAL paper equity Rs 100,213 on Rs 100,000 (+0.21%)
