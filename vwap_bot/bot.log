@@ -134,3 +134,6 @@
 [2026-11-01 21:57:16] Paper bot 3 (9EMA+VWAP, 5m) started (paper since 2026-10-27 17:27 IST). Markets: BTCUSD, ETHUSD. NO real orders.
 [2026-11-01 21:57:17] BTCUSD: price 78,064.0 | EMA9 78,002.7 | VWAP 77,916.6 | bias UP | no position | equity Rs 46,361 (-7.28%) | trades 13, wins 1 | today 2/3 trades, 2 losses || ETHUSD: price 2,269.1 | EMA9 2,267.9 | VWAP 2,266.9 | bias UP | no position | equity Rs 46,948 (-6.10%) | trades 14, wins 3 | today 3/3 trades, 2 losses
 [2026-11-01 21:57:17] TOTAL paper equity Rs 93,309 on Rs 100,000 (-6.69%)
+[2026-11-02 02:13:38] Paper bot 3 (9EMA+VWAP, 5m) started (paper since 2026-10-27 17:27 IST). Markets: BTCUSD, ETHUSD. NO real orders.
+[2026-11-02 02:13:38] BTCUSD: price 77,839.0 | EMA9 77,776.3 | VWAP 77,910.9 | bias DOWN | no position | equity Rs 46,361 (-7.28%) | trades 13, wins 1 | today 2/3 trades, 2 losses || ETHUSD: price 2,261.6 | EMA9 2,258.5 | VWAP 2,266.1 | bias DOWN | no position | equity Rs 46,948 (-6.10%) | trades 14, wins 3 | today 3/3 trades, 2 losses
+[2026-11-02 02:13:38] TOTAL paper equity Rs 93,309 on Rs 100,000 (-6.69%)
