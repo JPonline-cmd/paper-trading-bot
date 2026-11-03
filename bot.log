@@ -158,3 +158,6 @@
 [2026-11-03 23:13:06] ETHUSD: EXIT SHORT @ 2,282.81  (-1.20%, Rs -600)  equity Rs 49,577  [EMA20 crossed above EMA50]
 [2026-11-03 23:13:06] BTCUSD: price 77,671.5 | 4H trend DOWN | no position | equity Rs 49,628 (-0.74%) | trades 4, wins 3 || ETHUSD: price 2,294.6 | 4H trend DOWN | no position | equity Rs 49,577 (-0.85%) | trades 3, wins 1
 [2026-11-03 23:13:06] TOTAL paper equity Rs 99,205 on Rs 100,000 (-0.80%)
+[2026-11-04 04:42:45] Paper bot started (paper since 2026-10-24 23:13 IST). Markets: BTCUSD, ETHUSD. NO real orders.
+[2026-11-04 04:42:47] BTCUSD: price 77,836.5 | 4H trend DOWN | no position | equity Rs 49,628 (-0.74%) | trades 4, wins 3 || ETHUSD: price 2,290.0 | 4H trend DOWN | no position | equity Rs 49,577 (-0.85%) | trades 3, wins 1
+[2026-11-04 04:42:47] TOTAL paper equity Rs 99,205 on Rs 100,000 (-0.80%)
