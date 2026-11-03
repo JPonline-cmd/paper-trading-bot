@@ -168,3 +168,15 @@
 [2026-11-03 08:56:03] BTCUSD: EXIT SHORT @ 76,862.87  (Rs -40)  equity Rs 45,870  [close above EMA9]
 [2026-11-03 08:56:03] BTCUSD: price 76,894.5 | EMA9 76,873.3 | VWAP 76,942.9 | bias DOWN | no position | equity Rs 45,870 (-8.26%) | trades 17, wins 3 | today 2/3 trades, 0 losses || ETHUSD: price 2,253.5 | EMA9 2,253.9 | VWAP 2,255.9 | bias DOWN | no position | equity Rs 46,837 (-6.33%) | trades 17, wins 4 | today 0/3 trades, 0 losses
 [2026-11-03 08:56:03] TOTAL paper equity Rs 92,707 on Rs 100,000 (-7.29%)
+[2026-11-03 16:43:14] Paper bot 3 (9EMA+VWAP, 5m) started (paper since 2026-10-27 17:27 IST). Markets: BTCUSD, ETHUSD. NO real orders.
+[2026-11-03 16:43:14] BTCUSD: ENTER SHORT @ 76,777.64  stop 76,970.97  target 76,390.99  size 3.00x (paper, Rs 45,870)
+[2026-11-03 16:43:14] BTCUSD: EXIT PARTIAL SHORT @ 76,406.27  (Rs +264)  equity Rs 46,134  [2R target (50%)]
+[2026-11-03 16:43:14] BTCUSD: EXIT SHORT @ 76,707.34  (Rs -6)  equity Rs 46,128  [close above EMA9]
+[2026-11-03 16:43:15] ETHUSD: ENTER SHORT @ 2,245.60  stop 2,251.07  target 2,234.65  size 3.00x (paper, Rs 46,837)
+[2026-11-03 16:43:15] ETHUSD: EXIT SHORT @ 2,251.53  (Rs -511)  equity Rs 46,326  [stop loss]
+[2026-11-03 16:43:15] ETHUSD: ENTER SHORT @ 2,250.30  stop 2,255.88  target 2,239.14  size 3.00x (paper, Rs 46,326)
+[2026-11-03 16:43:15] ETHUSD: EXIT SHORT @ 2,247.95  (Rs +6)  equity Rs 46,332  [close above EMA9]
+[2026-11-03 16:43:15] ETHUSD: ENTER SHORT @ 2,242.85  stop 2,248.97  target 2,230.61  size 3.00x (paper, Rs 46,332)
+[2026-11-03 16:43:15] ETHUSD: EXIT SHORT @ 2,249.42  (Rs -546)  equity Rs 45,786  [stop loss]
+[2026-11-03 16:43:15] BTCUSD: price 77,200.5 | EMA9 77,078.8 | VWAP 76,826.0 | bias UP | no position | equity Rs 46,128 (-7.74%) | trades 18, wins 4 | today 3/3 trades, 0 losses || ETHUSD: price 2,271.3 | EMA9 2,270.3 | VWAP 2,256.5 | bias UP | no position | equity Rs 45,786 (-8.43%) | trades 20, wins 5 | today 3/3 trades, 2 losses
+[2026-11-03 16:43:15] TOTAL paper equity Rs 91,914 on Rs 100,000 (-8.09%)
