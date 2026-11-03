@@ -2,22 +2,22 @@
   "started": "2026-10-26 08:30",
   "markets": {
     "BTCUSD": {
-      "equity": 49843.85942237979,
-      "pos": -1,
-      "entry": 77663.9641,
-      "entry_time": 1793626200,
-      "last_bar": 1793692800,
-      "trades": 3,
-      "wins": 1,
-      "armed": true
+      "equity": 49968.895876924784,
+      "pos": 0,
+      "entry": null,
+      "entry_time": null,
+      "last_bar": 1793719800,
+      "trades": 4,
+      "wins": 2,
+      "armed": false
     },
     "ETHUSD": {
-      "equity": 50369.18579095351,
-      "pos": -1,
-      "entry": 2258.0483,
-      "entry_time": 1793642400,
-      "last_bar": 1793692800,
-      "trades": 2,
+      "equity": 49766.54814191754,
+      "pos": 0,
+      "entry": null,
+      "entry_time": null,
+      "last_bar": 1793719800,
+      "trades": 3,
       "wins": 1,
       "armed": false
     }
