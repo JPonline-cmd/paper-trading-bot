@@ -11,10 +11,10 @@
       "tp": null,
       "tp1_done": false,
       "trade_pnl": 0.0,
-      "day": "2026-11-03",
-      "trades_today": 3,
+      "day": "2026-11-04",
+      "trades_today": 0,
       "losses_today": 0,
-      "last_bar": 1793748600,
+      "last_bar": 1793761500,
       "trades": 18,
       "wins": 4
     },
@@ -28,10 +28,10 @@
       "tp": null,
       "tp1_done": false,
       "trade_pnl": 0.0,
-      "day": "2026-11-03",
-      "trades_today": 3,
-      "losses_today": 2,
-      "last_bar": 1793748600,
+      "day": "2026-11-04",
+      "trades_today": 0,
+      "losses_today": 0,
+      "last_bar": 1793761500,
       "trades": 20,
       "wins": 5
     }
