@@ -2,14 +2,14 @@
 
 Compare with bot 1: [../STATUS.md](../STATUS.md) | bot 2: [../rsi_bot/STATUS.md](../rsi_bot/STATUS.md)
 
-**Last update:** 06 Nov 2026, 13:23 IST  
+**Last update:** 06 Nov 2026, 20:59 IST  
 **Paper trading since:** 2026-10-27 17:27 IST  
 **Total paper equity:** Rs 89,325 on Rs 100,000 (**-10.67%**)
 
 ## Markets
 
-- BTCUSD: price 75,585.0 | EMA9 75,529.1 | VWAP 75,770.7 | bias DOWN | no position | equity Rs 44,945 (-10.11%) | trades 25, wins 5 | today 2/3 trades, 2 losses
-- ETHUSD: price 2,228.5 | EMA9 2,224.7 | VWAP 2,231.0 | bias MIXED | no position | equity Rs 44,380 (-11.24%) | trades 27, wins 6 | today 2/3 trades, 2 losses
+- BTCUSD: price 75,620.0 | EMA9 75,588.1 | VWAP 75,781.3 | bias DOWN | no position | equity Rs 44,945 (-10.11%) | trades 25, wins 5 | today 2/3 trades, 2 losses
+- ETHUSD: price 2,221.0 | EMA9 2,226.5 | VWAP 2,232.8 | bias DOWN | no position | equity Rs 44,380 (-11.24%) | trades 27, wins 6 | today 2/3 trades, 2 losses
 
 ## Last 15 exits
 
