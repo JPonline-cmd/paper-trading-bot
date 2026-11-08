@@ -6,16 +6,16 @@
       "pos": 0,
       "entry": null,
       "entry_time": null,
-      "last_bar": 1794141000,
+      "last_bar": 1794159000,
       "trades": 6,
       "wins": 4
     },
     "ETHUSD": {
       "equity": 48355.21988417754,
-      "pos": 0,
-      "entry": null,
-      "entry_time": null,
-      "last_bar": 1794141000,
+      "pos": -1,
+      "entry": 2228.9541200000003,
+      "entry_time": 1794157200,
+      "last_bar": 1794159000,
       "trades": 4,
       "wins": 1
     }
