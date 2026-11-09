@@ -309,3 +309,6 @@
 [2026-11-09 15:09:59] BTCUSD: EXIT LONG @ 75,248.95  (Rs -384)  equity Rs 43,079  [close below EMA9]
 [2026-11-09 15:09:59] BTCUSD: price 74,226.0 | EMA9 74,316.1 | VWAP 74,577.5 | bias DOWN | no position | equity Rs 43,079 (-13.84%) | trades 31, wins 5 | today 2/3 trades, 2 losses || ETHUSD: price 2,107.1 | EMA9 2,112.5 | VWAP 2,120.8 | bias DOWN | no position | equity Rs 42,526 (-14.95%) | trades 33, wins 6 | today 2/3 trades, 2 losses
 [2026-11-09 15:09:59] TOTAL paper equity Rs 85,605 on Rs 100,000 (-14.40%)
+[2026-11-10 01:37:06] Paper bot 3 (9EMA+VWAP, 5m) started (paper since 2026-10-27 17:27 IST). Markets: BTCUSD, ETHUSD. NO real orders.
+[2026-11-10 01:37:06] BTCUSD: price 74,871.0 | EMA9 74,824.6 | VWAP 74,690.4 | bias UP | no position | equity Rs 43,079 (-13.84%) | trades 31, wins 5 | today 2/3 trades, 2 losses || ETHUSD: price 2,127.3 | EMA9 2,128.2 | VWAP 2,123.0 | bias UP | no position | equity Rs 42,526 (-14.95%) | trades 33, wins 6 | today 2/3 trades, 2 losses
+[2026-11-10 01:37:06] TOTAL paper equity Rs 85,605 on Rs 100,000 (-14.40%)
