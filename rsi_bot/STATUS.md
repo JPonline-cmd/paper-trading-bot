@@ -2,14 +2,14 @@
 
 Compare with bot 1: [../STATUS.md](../STATUS.md)
 
-**Last update:** 12 Nov 2026, 04:28 IST  
+**Last update:** 12 Nov 2026, 09:16 IST  
 **Paper trading since:** 2026-10-26 08:30 IST  
 **Total paper equity:** Rs 100,790 on Rs 100,000 (**+0.79%**)
 
 ## Markets
 
-- BTCUSD: price 73,854.5 | 4H trend DOWN | no position | RSI 53 | equity Rs 48,935 (-2.13%) | trades 7, wins 4
-- ETHUSD: price 2,055.2 | 4H trend DOWN | no position | RSI 49 | equity Rs 51,854 (+3.71%) | trades 5, wins 2
+- BTCUSD: price 73,755.5 | 4H trend DOWN | no position | RSI 45 | equity Rs 48,935 (-2.13%) | trades 7, wins 4
+- ETHUSD: price 2,053.2 | 4H trend DOWN | no position | RSI 43 | equity Rs 51,854 (+3.71%) | trades 5, wins 2
 
 ## Last 15 closed trades
 
