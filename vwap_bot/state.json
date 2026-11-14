@@ -2,7 +2,7 @@
   "started": "2026-10-27 17:27",
   "markets": {
     "BTCUSD": {
-      "equity": 42523.81911321659,
+      "equity": 41775.75463609653,
       "pos": 0,
       "notional": 0.0,
       "entry": null,
@@ -12,14 +12,14 @@
       "tp1_done": false,
       "trade_pnl": 0.0,
       "day": "2026-11-14",
-      "trades_today": 0,
-      "losses_today": 0,
-      "last_bar": 1794622800,
-      "trades": 40,
+      "trades_today": 2,
+      "losses_today": 2,
+      "last_bar": 1794647400,
+      "trades": 42,
       "wins": 7
     },
     "ETHUSD": {
-      "equity": 43019.891469032445,
+      "equity": 42418.10161459333,
       "pos": 0,
       "notional": 0.0,
       "entry": null,
@@ -29,10 +29,10 @@
       "tp1_done": false,
       "trade_pnl": 0.0,
       "day": "2026-11-14",
-      "trades_today": 0,
-      "losses_today": 0,
-      "last_bar": 1794622800,
-      "trades": 42,
+      "trades_today": 2,
+      "losses_today": 2,
+      "last_bar": 1794647400,
+      "trades": 44,
       "wins": 9
     }
   }
