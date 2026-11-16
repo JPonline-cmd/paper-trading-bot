@@ -2,19 +2,20 @@
 
 Compare with bot 1: [../STATUS.md](../STATUS.md) | bot 2: [../rsi_bot/STATUS.md](../rsi_bot/STATUS.md)
 
-**Last update:** 16 Nov 2026, 08:28 IST  
+**Last update:** 16 Nov 2026, 16:25 IST  
 **Paper trading since:** 2026-10-27 17:27 IST  
-**Total paper equity:** Rs 82,149 on Rs 100,000 (**-17.85%**)
+**Total paper equity:** Rs 81,664 on Rs 100,000 (**-18.34%**)
 
 ## Markets
 
-- BTCUSD: price 65,083.0 | EMA9 65,063.6 | VWAP 64,947.6 | bias UP | no position | equity Rs 41,147 (-17.71%) | trades 47, wins 8 | today 2/3 trades, 2 losses
-- ETHUSD: price 1,822.7 | EMA9 1,822.6 | VWAP 1,817.4 | bias UP | no position | equity Rs 41,001 (-18.00%) | trades 47, wins 9 | today 1/3 trades, 1 losses
+- BTCUSD: price 64,477.0 | EMA9 64,473.7 | VWAP 64,673.2 | bias DOWN | no position | equity Rs 41,147 (-17.71%) | trades 47, wins 8 | today 2/3 trades, 2 losses
+- ETHUSD: price 1,806.5 | EMA9 1,804.0 | VWAP 1,812.2 | bias DOWN | no position | equity Rs 40,516 (-18.97%) | trades 48, wins 9 | today 2/3 trades, 2 losses
 
 ## Last 15 exits
 
 | Market | Side | Entry (IST) | Entry | Exit (IST) | Exit | Portion | P&L Rs | Reason |
 |---|---|---|---|---|---|---|---|---|
+| ETHUSD | SHORT | 2026-11-16 12:50 | 1,805.24 | 2026-11-16 12:55 | 1,817.47 | FULL | -485 | stop loss |
 | ETHUSD | SHORT | 2026-11-16 07:30 | 1,803.89 | 2026-11-16 07:30 | 1,812.02 | FULL | -531 | stop loss |
 | BTCUSD | SHORT | 2026-11-16 07:25 | 64,701.56 | 2026-11-16 07:35 | 64,785.95 | FULL | -286 | close above EMA9 |
 | BTCUSD | SHORT | 2026-11-16 06:10 | 64,799.54 | 2026-11-16 06:25 | 65,013.50 | FULL | -392 | close above EMA9 |
@@ -29,6 +30,5 @@ Compare with bot 1: [../STATUS.md](../STATUS.md) | bot 2: [../rsi_bot/STATUS.md]
 | BTCUSD | LONG | 2026-11-14 12:20 | 67,341.97 | 2026-11-14 12:45 | 67,196.44 | FULL | -400 | stop loss |
 | BTCUSD | SHORT | 2026-11-14 09:30 | 66,714.65 | 2026-11-14 09:50 | 66,931.88 | FULL | -348 | close above EMA9 |
 | ETHUSD | SHORT | 2026-11-13 11:00 | 1,918.92 | 2026-11-13 11:45 | 1,919.30 | FULL | -52 | breakeven stop |
-| ETHUSD | SHORT | 2026-11-13 11:00 | 1,918.92 | 2026-11-13 11:25 | 1,900.40 | 50% | +375 | 2R target (50%) |
 
 _Paper trading only — no real orders. Not financial advice._

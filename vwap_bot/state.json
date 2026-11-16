@@ -14,12 +14,12 @@
       "day": "2026-11-16",
       "trades_today": 2,
       "losses_today": 2,
-      "last_bar": 1794797400,
+      "last_bar": 1794826200,
       "trades": 47,
       "wins": 8
     },
     "ETHUSD": {
-      "equity": 41001.4194702952,
+      "equity": 40516.49036218668,
       "pos": 0,
       "notional": 0.0,
       "entry": null,
@@ -29,10 +29,10 @@
       "tp1_done": false,
       "trade_pnl": 0.0,
       "day": "2026-11-16",
-      "trades_today": 1,
-      "losses_today": 1,
-      "last_bar": 1794797400,
-      "trades": 47,
+      "trades_today": 2,
+      "losses_today": 2,
+      "last_bar": 1794826200,
+      "trades": 48,
       "wins": 9
     }
   }
