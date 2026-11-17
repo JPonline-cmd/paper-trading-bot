@@ -2,19 +2,23 @@
 
 Compare with bot 1: [../STATUS.md](../STATUS.md) | bot 2: [../rsi_bot/STATUS.md](../rsi_bot/STATUS.md)
 
-**Last update:** 17 Nov 2026, 08:44 IST  
+**Last update:** 17 Nov 2026, 17:29 IST  
 **Paper trading since:** 2026-10-27 17:27 IST  
-**Total paper equity:** Rs 81,664 on Rs 100,000 (**-18.34%**)
+**Total paper equity:** Rs 80,113 on Rs 100,000 (**-19.89%**)
 
 ## Markets
 
-- BTCUSD: price 64,632.0 | EMA9 64,537.2 | VWAP 64,610.9 | bias MIXED | no position | equity Rs 41,147 (-17.71%) | trades 47, wins 8 | today 0/3 trades, 0 losses
-- ETHUSD: price 1,818.1 | EMA9 1,815.3 | VWAP 1,816.3 | bias MIXED | no position | equity Rs 40,516 (-18.97%) | trades 48, wins 9 | today 0/3 trades, 0 losses
+- BTCUSD: price 64,966.5 | EMA9 64,655.4 | VWAP 64,575.3 | bias UP | no position | equity Rs 40,300 (-19.40%) | trades 49, wins 8 | today 2/3 trades, 2 losses
+- ETHUSD: price 1,821.3 | EMA9 1,811.4 | VWAP 1,816.0 | bias MIXED | no position | equity Rs 39,813 (-20.37%) | trades 50, wins 9 | today 2/3 trades, 2 losses
 
 ## Last 15 exits
 
 | Market | Side | Entry (IST) | Entry | Exit (IST) | Exit | Portion | P&L Rs | Reason |
 |---|---|---|---|---|---|---|---|---|
+| ETHUSD | LONG | 2026-11-17 10:55 | 1,841.17 | 2026-11-17 11:20 | 1,834.48 | FULL | -261 | close below EMA9 |
+| ETHUSD | LONG | 2026-11-17 10:30 | 1,834.42 | 2026-11-17 10:30 | 1,829.57 | FULL | -443 | stop loss |
+| BTCUSD | LONG | 2026-11-17 10:10 | 65,007.00 | 2026-11-17 10:30 | 64,832.59 | FULL | -450 | stop loss |
+| BTCUSD | LONG | 2026-11-17 09:30 | 65,042.51 | 2026-11-17 09:35 | 64,898.55 | FULL | -397 | stop loss |
 | ETHUSD | SHORT | 2026-11-16 12:50 | 1,805.24 | 2026-11-16 12:55 | 1,817.47 | FULL | -485 | stop loss |
 | ETHUSD | SHORT | 2026-11-16 07:30 | 1,803.89 | 2026-11-16 07:30 | 1,812.02 | FULL | -531 | stop loss |
 | BTCUSD | SHORT | 2026-11-16 07:25 | 64,701.56 | 2026-11-16 07:35 | 64,785.95 | FULL | -286 | close above EMA9 |
@@ -26,9 +30,5 @@ Compare with bot 1: [../STATUS.md](../STATUS.md) | bot 2: [../rsi_bot/STATUS.md]
 | BTCUSD | SHORT | 2026-11-15 06:20 | 63,592.28 | 2026-11-15 07:30 | 62,597.02 | FULL | +502 | close above EMA9 |
 | BTCUSD | SHORT | 2026-11-15 06:20 | 63,592.28 | 2026-11-15 06:30 | 62,829.45 | 50% | +377 | 2R target (50%) |
 | ETHUSD | SHORT | 2026-11-14 13:10 | 1,892.27 | 2026-11-14 13:25 | 1,900.23 | FULL | -397 | close above EMA9 |
-| ETHUSD | SHORT | 2026-11-14 09:05 | 1,885.52 | 2026-11-14 09:50 | 1,894.28 | FULL | -205 | close above EMA9 |
-| BTCUSD | LONG | 2026-11-14 12:20 | 67,341.97 | 2026-11-14 12:45 | 67,196.44 | FULL | -400 | stop loss |
-| BTCUSD | SHORT | 2026-11-14 09:30 | 66,714.65 | 2026-11-14 09:50 | 66,931.88 | FULL | -348 | close above EMA9 |
-| ETHUSD | SHORT | 2026-11-13 11:00 | 1,918.92 | 2026-11-13 11:45 | 1,919.30 | FULL | -52 | breakeven stop |
 
 _Paper trading only — no real orders. Not financial advice._
