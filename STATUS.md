@@ -1,18 +1,19 @@
 # Paper Bot — EMA 20/50/200 + Volume + 4H (30m)
 
-**Last update:** 19 Nov 2026, 06:56 IST  
+**Last update:** 19 Nov 2026, 14:56 IST  
 **Paper trading since:** 2026-10-24 23:13 IST  
-**Total paper equity:** Rs 100,127 on Rs 100,000 (**+0.13%**)
+**Total paper equity:** Rs 98,565 on Rs 100,000 (**-1.44%**)
 
 ## Markets
 
-- BTCUSD: price 62,761.0 | 4H trend DOWN | SHORT from 64,107.2 | equity Rs 48,748 (-2.50%) | trades 9, wins 5
-- ETHUSD: price 1,777.6 | 4H trend DOWN | SHORT from 1,804.4 | equity Rs 51,379 (+2.76%) | trades 6, wins 2
+- BTCUSD: price 63,727.5 | 4H trend DOWN | SHORT from 64,107.2 | equity Rs 48,027 (-3.95%) | trades 9, wins 5
+- ETHUSD: price 1,801.3 | 4H trend DOWN | no position | equity Rs 50,537 (+1.07%) | trades 7, wins 2
 
 ## Last 15 closed trades
 
 | Market | Side | Entry (IST) | Entry | Exit (IST) | Exit | Return % | P&L Rs |
 |---|---|---|---|---|---|---|---|
+| ETHUSD | SHORT | 2026-11-18 16:00 | 1,804.39 | 2026-11-19 12:30 | 1,807.91 | -0.30 | -150 |
 | ETHUSD | SHORT | 2026-11-17 16:00 | 1,793.39 | 2026-11-18 15:00 | 1,813.26 | -1.21 | -620 |
 | BTCUSD | SHORT | 2026-11-17 21:30 | 64,070.68 | 2026-11-18 12:30 | 64,591.92 | -0.91 | -441 |
 | BTCUSD | SHORT | 2026-11-17 12:00 | 64,544.59 | 2026-11-17 20:30 | 64,994.50 | -0.80 | -388 |
@@ -27,6 +28,5 @@
 | ETHUSD | SHORT | 2026-10-30 02:00 | 2,315.89 | 2026-10-31 21:00 | 2,247.70 | +2.84 | +1,388 |
 | ETHUSD | SHORT | 2026-10-29 08:00 | 2,303.54 | 2026-10-29 22:00 | 2,357.02 | -2.42 | -1,211 |
 | BTCUSD | SHORT | 2026-10-29 08:30 | 79,917.51 | 2026-10-29 21:30 | 81,760.85 | -2.41 | -1,206 |
-| BTCUSD | SHORT | 2026-10-25 12:00 | 80,581.38 | 2026-10-27 20:30 | 80,341.57 | +0.20 | +99 |
 
 _Paper trading only — no real orders. Not financial advice._
