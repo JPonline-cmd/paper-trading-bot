@@ -523,3 +523,8 @@
 [2026-11-20 10:35:46] ETHUSD: EXIT SHORT @ 1,738.80  (Rs -344)  equity Rs 37,630  [close above EMA9]
 [2026-11-20 10:35:46] BTCUSD: price 61,467.0 | EMA9 61,560.6 | VWAP 61,840.5 | bias DOWN | no position | equity Rs 38,352 (-23.30%) | trades 54, wins 8 | today 1/3 trades, 1 losses || ETHUSD: price 1,724.0 | EMA9 1,727.2 | VWAP 1,738.8 | bias DOWN | no position | equity Rs 37,630 (-24.74%) | trades 56, wins 9 | today 2/3 trades, 2 losses
 [2026-11-20 10:35:46] TOTAL paper equity Rs 75,982 on Rs 100,000 (-24.02%)
+[2026-11-20 19:27:59] Paper bot 3 (9EMA+VWAP, 5m) started (paper since 2026-10-27 17:27 IST). Markets: BTCUSD, ETHUSD. NO real orders.
+[2026-11-20 19:28:00] BTCUSD: ENTER SHORT @ 61,412.72  stop 61,620.79  target 60,996.56  size 2.95x (paper, Rs 38,352)
+[2026-11-20 19:28:00] BTCUSD: EXIT SHORT @ 61,621.82  (Rs -499)  equity Rs 37,853  [close above EMA9]
+[2026-11-20 19:28:00] BTCUSD: price 61,814.5 | EMA9 61,585.8 | VWAP 61,765.9 | bias MIXED | no position | equity Rs 37,853 (-24.29%) | trades 55, wins 8 | today 2/3 trades, 2 losses || ETHUSD: price 1,752.3 | EMA9 1,739.9 | VWAP 1,742.2 | bias MIXED | no position | equity Rs 37,630 (-24.74%) | trades 56, wins 9 | today 2/3 trades, 2 losses
+[2026-11-20 19:28:00] TOTAL paper equity Rs 75,483 on Rs 100,000 (-24.52%)
