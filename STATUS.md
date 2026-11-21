@@ -1,13 +1,13 @@
 # Paper Bot — EMA 20/50/200 + Volume + 4H (30m)
 
-**Last update:** 21 Nov 2026, 05:26 IST  
+**Last update:** 21 Nov 2026, 12:24 IST  
 **Paper trading since:** 2026-10-24 23:13 IST  
-**Total paper equity:** Rs 105,620 on Rs 100,000 (**+5.62%**)
+**Total paper equity:** Rs 105,826 on Rs 100,000 (**+5.83%**)
 
 ## Markets
 
-- BTCUSD: price 58,829.5 | 4H trend DOWN | SHORT from 62,737.9 | equity Rs 50,856 (+1.71%) | trades 10, wins 6
-- ETHUSD: price 1,620.0 | 4H trend DOWN | SHORT from 1,770.1 | equity Rs 54,764 (+9.53%) | trades 7, wins 2
+- BTCUSD: price 57,762.0 | 4H trend DOWN | SHORT from 62,737.9 | equity Rs 51,671 (+3.34%) | trades 10, wins 6
+- ETHUSD: price 1,641.3 | 4H trend DOWN | SHORT from 1,770.1 | equity Rs 54,155 (+8.31%) | trades 7, wins 2
 
 ## Last 15 closed trades
 
