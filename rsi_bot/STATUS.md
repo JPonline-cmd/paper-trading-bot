@@ -2,19 +2,21 @@
 
 Compare with bot 1: [../STATUS.md](../STATUS.md)
 
-**Last update:** 21 Nov 2026, 12:25 IST  
+**Last update:** 21 Nov 2026, 20:45 IST  
 **Paper trading since:** 2026-10-26 08:30 IST  
-**Total paper equity:** Rs 107,421 on Rs 100,000 (**+7.42%**)
+**Total paper equity:** Rs 105,556 on Rs 100,000 (**+5.56%**)
 
 ## Markets
 
-- BTCUSD: price 57,720.0 | 4H trend DOWN | SHORT from 62,737.9 | RSI 27 (RSI exit armed) | equity Rs 52,140 (+4.28%) | trades 10, wins 5
-- ETHUSD: price 1,637.4 | 4H trend DOWN | SHORT from 1,770.1 | RSI 33 (RSI exit armed) | equity Rs 55,281 (+10.56%) | trades 7, wins 3
+- BTCUSD: price 60,180.0 | 4H trend DOWN | no position | RSI 69 | equity Rs 50,706 (+1.41%) | trades 11, wins 6
+- ETHUSD: price 1,689.0 | 4H trend DOWN | no position | RSI 67 | equity Rs 54,850 (+9.70%) | trades 8, wins 4
 
 ## Last 15 closed trades
 
 | Market | Side | Entry (IST) | Entry | Exit (IST) | Exit | Return % | P&L Rs |
 |---|---|---|---|---|---|---|---|
+| ETHUSD | SHORT | 2026-11-19 23:30 | 1,770.10 | 2026-11-21 17:30 | 1,652.53 | +6.54 | +3,368 |
+| BTCUSD | SHORT | 2026-11-19 22:30 | 62,737.95 | 2026-11-21 19:00 | 59,593.92 | +4.91 | +2,374 |
 | ETHUSD | SHORT | 2026-11-18 16:00 | 1,804.39 | 2026-11-19 09:30 | 1,793.61 | +0.50 | +255 |
 | BTCUSD | SHORT | 2026-11-18 17:00 | 64,107.18 | 2026-11-19 12:30 | 63,736.74 | +0.48 | +230 |
 | ETHUSD | SHORT | 2026-11-17 16:00 | 1,793.39 | 2026-11-18 15:00 | 1,813.26 | -1.21 | -626 |
@@ -28,7 +30,5 @@ Compare with bot 1: [../STATUS.md](../STATUS.md)
 | ETHUSD | SHORT | 2026-11-02 23:30 | 2,258.05 | 2026-11-03 18:30 | 2,282.81 | -1.20 | -603 |
 | BTCUSD | SHORT | 2026-11-02 19:00 | 77,663.96 | 2026-11-03 18:00 | 77,391.48 | +0.25 | +125 |
 | ETHUSD | SHORT | 2026-10-30 02:00 | 2,315.89 | 2026-10-31 18:30 | 2,251.90 | +2.66 | +1,307 |
-| BTCUSD | SHORT | 2026-10-30 02:30 | 78,784.24 | 2026-10-31 17:30 | 77,596.02 | +1.41 | +692 |
-| ETHUSD | SHORT | 2026-10-29 08:00 | 2,303.54 | 2026-10-29 20:30 | 2,344.42 | -1.87 | -937 |
 
 _Paper trading only — no real orders. Not financial advice._
