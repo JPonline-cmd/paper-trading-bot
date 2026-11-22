@@ -2,19 +2,20 @@
 
 Compare with bot 1: [../STATUS.md](../STATUS.md)
 
-**Last update:** 22 Nov 2026, 14:14 IST  
+**Last update:** 22 Nov 2026, 22:33 IST  
 **Paper trading since:** 2026-10-26 08:30 IST  
-**Total paper equity:** Rs 104,774 on Rs 100,000 (**+4.77%**)
+**Total paper equity:** Rs 103,694 on Rs 100,000 (**+3.69%**)
 
 ## Markets
 
-- BTCUSD: price 59,843.0 | 4H trend DOWN | SHORT from 59,004.2 | RSI 56 | equity Rs 49,924 (-0.15%) | trades 11, wins 6
-- ETHUSD: price 1,686.5 | 4H trend DOWN | no position | RSI 61 | equity Rs 54,850 (+9.70%) | trades 8, wins 4
+- BTCUSD: price 61,075.5 | 4H trend DOWN | no position | RSI 67 | equity Rs 48,844 (-2.31%) | trades 12, wins 6
+- ETHUSD: price 1,717.9 | 4H trend DOWN | no position | RSI 71 | equity Rs 54,850 (+9.70%) | trades 8, wins 4
 
 ## Last 15 closed trades
 
 | Market | Side | Entry (IST) | Entry | Exit (IST) | Exit | Return % | P&L Rs |
 |---|---|---|---|---|---|---|---|
+| BTCUSD | SHORT | 2026-11-22 12:00 | 59,004.20 | 2026-11-22 15:30 | 61,111.72 | -3.67 | -1,862 |
 | ETHUSD | SHORT | 2026-11-19 23:30 | 1,770.10 | 2026-11-21 17:30 | 1,652.53 | +6.54 | +3,368 |
 | BTCUSD | SHORT | 2026-11-19 22:30 | 62,737.95 | 2026-11-21 19:00 | 59,593.92 | +4.91 | +2,374 |
 | ETHUSD | SHORT | 2026-11-18 16:00 | 1,804.39 | 2026-11-19 09:30 | 1,793.61 | +0.50 | +255 |
@@ -29,6 +30,5 @@ Compare with bot 1: [../STATUS.md](../STATUS.md)
 | BTCUSD | SHORT | 2026-11-04 08:30 | 76,112.77 | 2026-11-04 12:30 | 77,985.59 | -2.56 | -1,280 |
 | ETHUSD | SHORT | 2026-11-02 23:30 | 2,258.05 | 2026-11-03 18:30 | 2,282.81 | -1.20 | -603 |
 | BTCUSD | SHORT | 2026-11-02 19:00 | 77,663.96 | 2026-11-03 18:00 | 77,391.48 | +0.25 | +125 |
-| ETHUSD | SHORT | 2026-10-30 02:00 | 2,315.89 | 2026-10-31 18:30 | 2,251.90 | +2.66 | +1,307 |
 
 _Paper trading only — no real orders. Not financial advice._
