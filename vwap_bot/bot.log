@@ -559,3 +559,16 @@
 [2026-11-22 08:01:15] Paper bot 3 (9EMA+VWAP, 5m) started (paper since 2026-10-27 17:27 IST). Markets: BTCUSD, ETHUSD. NO real orders.
 [2026-11-22 08:01:15] BTCUSD: price 59,740.5 | EMA9 59,966.4 | VWAP 60,055.7 | bias DOWN | no position | equity Rs 37,738 (-24.52%) | trades 58, wins 9 | today 0/3 trades, 0 losses || ETHUSD: price 1,677.0 | EMA9 1,682.6 | VWAP 1,683.6 | bias DOWN | no position | equity Rs 38,023 (-23.95%) | trades 59, wins 10 | today 0/3 trades, 0 losses
 [2026-11-22 08:01:15] TOTAL paper equity Rs 75,762 on Rs 100,000 (-24.24%)
+[2026-11-22 15:42:04] Paper bot 3 (9EMA+VWAP, 5m) started (paper since 2026-10-27 17:27 IST). Markets: BTCUSD, ETHUSD. NO real orders.
+[2026-11-22 15:42:05] BTCUSD: ENTER SHORT @ 59,188.16  stop 59,498.73  target 58,567.01  size 1.91x (paper, Rs 37,738)
+[2026-11-22 15:42:05] BTCUSD: EXIT SHORT @ 59,292.36  (Rs -199)  equity Rs 37,540  [close above EMA9]
+[2026-11-22 15:42:05] BTCUSD: ENTER SHORT @ 59,142.67  stop 59,366.67  target 58,694.67  size 2.64x (paper, Rs 37,540)
+[2026-11-22 15:42:05] BTCUSD: EXIT SHORT @ 58,971.79  (Rs +187)  equity Rs 37,727  [close above EMA9]
+[2026-11-22 15:42:05] BTCUSD: ENTER LONG @ 59,985.99  stop 59,611.18  target 60,735.63  size 1.60x (paper, Rs 37,727)
+[2026-11-22 15:42:05] BTCUSD: EXIT PARTIAL LONG @ 60,723.48  (Rs +341)  equity Rs 38,068  [2R target (50%)]
+[2026-11-22 15:42:05] ETHUSD: ENTER SHORT @ 1,660.27  stop 1,668.03  target 1,644.74  size 2.14x (paper, Rs 38,023)
+[2026-11-22 15:42:05] ETHUSD: EXIT SHORT @ 1,660.83  (Rs -109)  equity Rs 37,914  [close above EMA9]
+[2026-11-22 15:42:05] ETHUSD: ENTER SHORT @ 1,650.17  stop 1,661.78  target 1,626.95  size 1.42x (paper, Rs 37,914)
+[2026-11-22 15:42:05] ETHUSD: EXIT SHORT @ 1,657.13  (Rs -281)  equity Rs 37,633  [close above EMA9]
+[2026-11-22 15:42:05] BTCUSD: price 61,022.5 | EMA9 60,611.7 | VWAP 59,663.5 | bias UP | LONG from 59,986.0, stop 59,986.0 | equity Rs 38,553 (-22.89%) | trades 60, wins 10 | today 3/3 trades, 1 losses || ETHUSD: price 1,713.0 | EMA9 1,704.3 | VWAP 1,677.1 | bias UP | no position | equity Rs 37,633 (-24.73%) | trades 61, wins 10 | today 2/3 trades, 2 losses
+[2026-11-22 15:42:05] TOTAL paper equity Rs 76,186 on Rs 100,000 (-23.81%)
