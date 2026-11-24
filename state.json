@@ -3,10 +3,10 @@
   "markets": {
     "BTCUSD": {
       "equity": 48102.51229730247,
-      "pos": 0,
-      "entry": null,
-      "entry_time": null,
-      "last_bar": 1795482000,
+      "pos": -1,
+      "entry": 60613.3749,
+      "entry_time": 1795487400,
+      "last_bar": 1795519800,
       "trades": 12,
       "wins": 7
     },
@@ -15,7 +15,7 @@
       "pos": 0,
       "entry": null,
       "entry_time": null,
-      "last_bar": 1795482000,
+      "last_bar": 1795519800,
       "trades": 8,
       "wins": 3
     }
