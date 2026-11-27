@@ -647,3 +647,14 @@
 [2026-11-27 04:43:33] Paper bot 3 (9EMA+VWAP, 5m) started (paper since 2026-10-27 17:27 IST). Markets: BTCUSD, ETHUSD. NO real orders.
 [2026-11-27 04:43:34] BTCUSD: price 60,441.0 | EMA9 60,539.6 | VWAP 60,641.0 | bias DOWN | no position | equity Rs 36,182 (-27.64%) | trades 70, wins 12 | today 2/3 trades, 2 losses || ETHUSD: price 1,687.8 | EMA9 1,694.1 | VWAP 1,695.5 | bias DOWN | no position | equity Rs 35,054 (-29.89%) | trades 69, wins 10 | today 2/3 trades, 2 losses
 [2026-11-27 04:43:34] TOTAL paper equity Rs 71,236 on Rs 100,000 (-28.76%)
+[2026-11-27 10:35:39] Paper bot 3 (9EMA+VWAP, 5m) started (paper since 2026-10-27 17:27 IST). Markets: BTCUSD, ETHUSD. NO real orders.
+[2026-11-27 10:35:40] BTCUSD: ENTER LONG @ 61,598.32  stop 61,265.35  target 62,264.25  size 1.85x (paper, Rs 36,182)
+[2026-11-27 10:35:40] BTCUSD: EXIT LONG @ 61,495.70  (Rs -178)  equity Rs 36,004  [close below EMA9]
+[2026-11-27 10:35:40] BTCUSD: ENTER LONG @ 61,515.30  stop 61,389.79  target 61,766.32  size 3.00x (paper, Rs 36,004)
+[2026-11-27 10:35:40] BTCUSD: EXIT LONG @ 61,467.70  (Rs -192)  equity Rs 35,812  [close below EMA9]
+[2026-11-27 10:35:40] ETHUSD: ENTER LONG @ 1,722.59  stop 1,699.45  target 1,768.88  size 0.74x (paper, Rs 35,054)
+[2026-11-27 10:35:40] ETHUSD: EXIT LONG @ 1,721.51  (Rs -43)  equity Rs 35,011  [close below EMA9]
+[2026-11-27 10:35:40] ETHUSD: ENTER LONG @ 1,728.30  stop 1,719.34  target 1,746.21  size 1.93x (paper, Rs 35,011)
+[2026-11-27 10:35:40] ETHUSD: EXIT LONG @ 1,727.15  (Rs -112)  equity Rs 34,899  [close below EMA9]
+[2026-11-27 10:35:40] BTCUSD: price 61,580.0 | EMA9 61,461.2 | VWAP 61,305.1 | bias UP | no position | equity Rs 35,812 (-28.38%) | trades 72, wins 12 | today 2/3 trades, 2 losses || ETHUSD: price 1,738.0 | EMA9 1,733.0 | VWAP 1,722.1 | bias UP | no position | equity Rs 34,899 (-30.20%) | trades 71, wins 10 | today 2/3 trades, 2 losses
+[2026-11-27 10:35:40] TOTAL paper equity Rs 70,711 on Rs 100,000 (-29.29%)
